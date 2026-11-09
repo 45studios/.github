@@ -25,9 +25,6 @@ A news portal that can manage articles, login of reporters, displaying news by o
 <a href="mailto:anandhukrishne@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" alt="Email">
 </a>
-<a href="https://matiks.com/profile/anandhu.krishne">
-<img src="https://skillicons.dev/icons?i=youtube" alt="Matiks">
-</a>
   
 </p>
 
